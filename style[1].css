@@ -10,7 +10,7 @@
   background: #fff;
 }
 body{
-    background-image: url(Background.jpg);
+    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
